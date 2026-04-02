@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Silomentus&fontSize=75&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Laravel%20Enthusiast%20%7C%20Backend%20Craftsman&descSize=18&descColor=8b949e&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Silomentus&fontSize=75&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Backend%20Engineer%20%7C%20AI%20%26%20ML%20Explorer&descSize=18&descColor=8b949e&descAlignY=55" width="100%" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%94%A5+Building+things+with+PHP+%26+Laravel;%F0%9F%9A%80+Turning+coffee+into+code+since+day+one;%F0%9F%8E%AF+Clean+code+%3E+Clever+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%94%A5+Building+things+with+PHP+%26+Laravel;%F0%9F%A7%A0+Exploring+AI%2C+ML+%26+Deep+Learning;%F0%9F%8E%AF+Clean+code+%3E+Clever+code" alt="Typing SVG" />
 </a>
 
 </div>
@@ -19,6 +19,7 @@ const silomentus = {
     company: "Appinion BD LTD",
     location: "Dhaka, Bangladesh 🇧🇩",
     currentFocus: "Backend Development with Laravel",
+    alsoInto: "Machine Learning & Neural Networks",
     funFact: "I debug with print statements and I'm not ashamed 😄",
     dailyRoutine: ["☕ Coffee", "💻 Code", "🐛 Debug", "🔁 Repeat"]
 };
@@ -26,9 +27,10 @@ const silomentus = {
 
 - 🔭 Currently building **internal tools & client-facing systems** at Appinion BD LTD
 - 🌱 Exploring **RESTful API development** & cross-team collaboration
+- 🧠 Academic background in **Machine Learning, Deep Learning & Neural Networks**
 - ⚡ Working with **PHP Laravel backend** + preparing for mobile app API integrations
 - 🛠️ Comfortable on both **Ubuntu & Windows**
-- 💬 Ask me about **Laravel, PHP, MySQL, Git workflows**
+- 💬 Ask me about **Laravel, PHP, MySQL, Git workflows, ML basics**
 
 ---
 
@@ -40,9 +42,18 @@ const silomentus = {
 #### 💻 Languages & Frameworks
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🧠 AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 #### 🗄️ Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -50,6 +61,8 @@ const silomentus = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
 #### 🖥️ OS & Environment
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
