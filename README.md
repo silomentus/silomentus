@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Silomentus&fontSize=75&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Backend%20Engineer%20%7C%20AI%20%26%20ML%20Explorer&descSize=18&descColor=8b949e&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:58a6ff&amp;height=220&amp;section=header&amp;text=Silomentus&amp;fontSize=75&amp;fontColor=58a6ff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Web%20Developer%20%7C%20Backend%20Engineer%20%7C%20AI%20%26%20ML%20Explorer&amp;descSize=18&amp;descColor=8b949e&amp;descAlignY=55" width="100%" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -78,11 +78,11 @@ const silomentus = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=silomentus&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silomentus&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="41%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=silomentus&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9&amp;ring_color=58a6ff" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silomentus&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9" width="41%" alt="Top Languages" />
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=silomentus&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="60%" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=silomentus&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=30363d&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakLabel=58a6ff" width="60%" alt="GitHub Streak" />
 
 </div>
 
@@ -92,7 +92,7 @@ const silomentus = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=silomentus&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=silomentus&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=58a6ff&amp;point=c9d1d9&amp;area=true&amp;area_color=58a6ff&amp;hide_border=true" width="95%" alt="Activity Graph" />
 </div>
 
 ---
@@ -116,7 +116,7 @@ const silomentus = {
 ## 🎲 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=github_dark" alt="Random Dev Quote" />
 </div>
 
 ---
@@ -144,4 +144,4 @@ const silomentus = {
 </div>
 
 <!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:58a6ff&amp;height=120&amp;section=footer" width="100%" />
