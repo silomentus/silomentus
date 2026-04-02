@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=600&amp;height=100&amp;lines=%F0%9F%94%A5+Building+things+with+PHP+%26+Laravel;%F0%9F%A7%A0+Exploring+AI%2C+ML+%26+Deep+Learning;%F0%9F%8E%AF+Clean+code+%3E+Clever+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=600&amp;height=100&amp;lines=%F0%9F%94%A5+Crafting+backends+that+just+work;%F0%9F%A7%A0+Exploring+AI%2C+ML+%26+Deep+Learning;%F0%9F%8E%AF+Clean+code+%3E+Clever+code" alt="Typing SVG" />
 </a>
 
 </div>
