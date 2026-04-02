@@ -125,7 +125,7 @@ const silomentus = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-silomentus-181717?style=for-the-badge&logo=github)](https://github.com/silomentus)
 <!-- Add more social links below as needed -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shoron -0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-harun-or-rashid-shoron)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shoron-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-harun-or-rashid-shoron)
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-YourHandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle) -->
 
 </div>
