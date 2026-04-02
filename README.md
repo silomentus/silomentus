@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Silomentus&fontSize=75&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Backend%20Engineer%20%7C%20Backend%20Craftsman&descSize=18&descColor=8b949e&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Silomentus&fontSize=75&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Backend%20Engineer%20%7C%20AI%20Enthusiast&descSize=18&descColor=8b949e&descAlignY=55" width="100%" />
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=600&amp;height=100&amp;lines=%F0%9F%94%A5+Crafting+backends+that+just+work;%F0%9F%A7%A0+Exploring+AI%2C+ML+%26+Deep+Learning;%F0%9F%8E%AF+Clean+code+%3E+Clever+code" alt="Typing SVG" />
