@@ -77,11 +77,12 @@ const silomentus = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=silomentus&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silomentus&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="41%" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=silomentus&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=30363d&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakLabel=58a6ff" width="60%" alt="GitHub Streak" />
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=silomentus&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="60%" alt="GitHub Streak" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=silomentus&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9&amp;ring_color=58a6ff" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silomentus&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9" width="41%" alt="Top Languages" />
 
 </div>
 
