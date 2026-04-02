@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:58a6ff&amp;height=220&amp;section=header&amp;text=Silomentus&amp;fontSize=75&amp;fontColor=58a6ff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Web%20Developer%20%7C%20Backend%20Engineer%20%7C%20AI%20%26%20ML%20Explorer&amp;descSize=18&amp;descColor=8b949e&amp;descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Silomentus&fontSize=75&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Laravel%20Enthusiast%20%7C%20Backend%20Craftsman&descSize=18&descColor=8b949e&descAlignY=55" width="100%" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=600&amp;height=100&amp;lines=%F0%9F%94%A5+Building+things+with+PHP+%26+Laravel;%F0%9F%A7%A0+Exploring+AI%2C+ML+%26+Deep+Learning;%F0%9F%8E%AF+Clean+code+%3E+Clever+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%94%A5+Building+things+with+PHP+%26+Laravel;%F0%9F%9A%80+Turning+coffee+into+code+since+day+one;%F0%9F%8E%AF+Clean+code+%3E+Clever+code" alt="Typing SVG" />
 </a>
 
 </div>
@@ -31,7 +31,6 @@ const silomentus = {
 - ⚡ Working with **PHP Laravel backend** + preparing for mobile app API integrations
 - 🛠️ Comfortable on both **Ubuntu & Windows**
 - 💬 Ask me about **Laravel, PHP, MySQL, Git workflows, ML basics**
-
 ---
 
 <!-- Tech Stack -->
@@ -73,16 +72,17 @@ const silomentus = {
 
 ---
 
+
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=silomentus&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9&amp;ring_color=58a6ff" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silomentus&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9" width="41%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=silomentus&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silomentus&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="41%" alt="Top Languages" />
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=silomentus&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=30363d&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakLabel=58a6ff" width="60%" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=silomentus&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="60%" alt="GitHub Streak" />
 
 </div>
 
@@ -92,7 +92,7 @@ const silomentus = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=silomentus&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=58a6ff&amp;point=c9d1d9&amp;area=true&amp;area_color=58a6ff&amp;hide_border=true" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=silomentus&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" width="95%" alt="Activity Graph" />
 </div>
 
 ---
@@ -116,23 +116,32 @@ const silomentus = {
 ## 🎲 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=github_dark" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Random Dev Quote" />
 </div>
 
 ---
 
 <!-- Profile Views & Visitors -->
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=silomentus&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/silomentus?style=for-the-badge&color=58a6ff&labelColor=0d1117)](https://github.com/silomentus?tab=followers)
+
+</div>
 
 ---
 
 <!-- Connect -->
 ## 🤝 Let's Connect
 
+<div align="center">
+
 [![GitHub](https://img.shields.io/badge/GitHub-silomentus-181717?style=for-the-badge&logo=github)](https://github.com/silomentus)
+<!-- Add more social links below as needed -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shoron-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-harun-or-rashid-shoron)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-YourHandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle) -->
+
+</div>
 
 <!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:58a6ff&amp;height=120&amp;section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" width="100%" />
