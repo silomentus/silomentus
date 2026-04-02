@@ -37,9 +37,8 @@ const silomentus = {
 <!-- Tech Stack -->
 ## 🛠️ Tech Arsenal
 
-<div align="center">
-
 #### 💻 Languages & Frameworks
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -48,6 +47,7 @@ const silomentus = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### 🧠 AI & Machine Learning
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -56,6 +56,7 @@ const silomentus = {
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 #### 🗄️ Database & Tools
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -65,11 +66,10 @@ const silomentus = {
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
 #### 🖥️ OS & Environment
+
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
 
 ---
 
@@ -122,26 +122,17 @@ const silomentus = {
 ---
 
 <!-- Profile Views & Visitors -->
-<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=silomentus&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/silomentus?style=for-the-badge&color=58a6ff&labelColor=0d1117)](https://github.com/silomentus?tab=followers)
-
-</div>
 
 ---
 
 <!-- Connect -->
 ## 🤝 Let's Connect
 
-<div align="center">
-
 [![GitHub](https://img.shields.io/badge/GitHub-silomentus-181717?style=for-the-badge&logo=github)](https://github.com/silomentus)
-<!-- Add more social links below as needed -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shoron-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-harun-or-rashid-shoron)
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-YourHandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle) -->
-
-</div>
 
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:58a6ff&amp;height=120&amp;section=footer" width="100%" />
